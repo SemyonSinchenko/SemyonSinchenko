@@ -1,16 +1,17 @@
-### Hi there 👋
+### Semyon Sinchenko
 
-<!--
-**SemyonSinchenko/SemyonSinchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education
 
-Here are some ideas to get you started:
+* Bachelor degree in solid state physics (Moscow Engeneering Physical Institute, Moscow 2016)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+
+* Application of Artifical Neural Networks to Quantum Many Body problems
+* Community detection in real world networks
+* Machine learning on graphs
+* Dynamic of temporal networks
+
+### Skills
+
+* Python + ML
+* Java core

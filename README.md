@@ -6,12 +6,18 @@
 
 ### Interests
 
-* Application of Artifical Neural Networks to Quantum Many Body problems
-* Community detection in real world networks
-* Machine learning on graphs
-* Dynamic of temporal networks
+* Quantum Computation / Information
+* Quantum Machine Learning
+* Deep learning in Quantum Physics
 
 ### Skills
 
 * Python + ML
 * Java core
+* Scala core
+
+### Experience
+
+* Data Analyst, Raiffiesenbank: 2018-01 - 2019-04
+* Senior Data Scientist, Raiffeisenbank: 2019-04 - 2020-01
+* Expert Data Scientist, Raiffeisenbank: 2020-01 - 

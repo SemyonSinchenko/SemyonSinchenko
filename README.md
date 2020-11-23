@@ -4,7 +4,7 @@
 
 * Bachelor degree in solid state physics (Moscow Engeneering Physical Institute, Moscow 2016)
 
-### Interests
+### Scientific Interests
 
 * Quantum Computation / Information
 * Quantum Machine Learning
@@ -16,8 +16,15 @@
 * Java core
 * Scala core
 
+### Expertise
+
+* Data Engineering
+* Data Science
+* Backend
+
 ### Experience
 
-* Data Analyst, Raiffiesenbank: 2018-01 - 2019-04
-* Senior Data Scientist, Raiffeisenbank: 2019-04 - 2020-01
-* Expert Data Scientist, Raiffeisenbank: 2020-01 - 
+* Data Analyst, Raiffeisenbank RU: 2018-01 - 2019-04
+* Senior Data Scientist, Raiffeisenbank RU: 2019-04 - 2020-01
+* Expert Data Scientist, Raiffeisenbank RU: 2020-01 - 2020-10
+* Data Engineer, Raiffeisenbank RU: 2020-10 - 

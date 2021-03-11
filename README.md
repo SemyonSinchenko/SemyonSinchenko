@@ -13,8 +13,8 @@
 ### Skills
 
 * Python + ML
-* Java core
-* Scala core
+* Quantum Computing
+* Quantum Machine Learning
 
 ### Expertise
 

@@ -26,7 +26,7 @@
 
 ### Experience
 
-* Data Analyst, Raiffeisenbank RU: 2018-01 - 2019-04
-* Senior Data Scientist, Raiffeisenbank RU: 2019-04 - 2020-01
+* Data Engineer, Raiffeisenbank RU: 2020-10 - (Now)
 * Expert Data Scientist, Raiffeisenbank RU: 2020-01 - 2020-10
-* Data Engineer, Raiffeisenbank RU: 2020-10 - 
+* Senior Data Scientist, Raiffeisenbank RU: 2019-04 - 2020-01
+* Data Analyst, Raiffeisenbank RU: 2018-01 - 2019-04

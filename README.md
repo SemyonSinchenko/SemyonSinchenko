@@ -13,6 +13,7 @@
 * Quantum Computation / Information
 * Quantum Machine Learning
 * Deep learning in Quantum Physics
+* Network Analysis & Graph Theory
 
 ### Skills
 
@@ -20,6 +21,7 @@
 
 
 * Python + ML
+* Data Engineering Stack (Apache Spark, Airflow, Kafka, Ni-Fi, SQL)
 * Quantum Computing
 * Quantum Machine Learning
 

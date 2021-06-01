@@ -1,6 +1,6 @@
 ### Semyon Sinchenko
 
-![](https://www.codewars.com/users/semyon_sinchenko/badges/large)
+[![Codewars](https://www.codewars.com/users/semyon_sinchenko/badges/large)](https://www.codewars.com/users/semyon_sinchenko)
 
 ### Education
 

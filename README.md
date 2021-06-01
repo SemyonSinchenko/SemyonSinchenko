@@ -1,5 +1,7 @@
 ### Semyon Sinchenko
 
+![](https://www.codewars.com/users/semyon_sinchenko/badges/large)
+
 ### Education
 
 * Bachelor degree in solid state physics (Moscow Engeneering Physical Institute, Moscow 2016)

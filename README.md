@@ -2,6 +2,9 @@
 
 [![Codewars](https://www.codewars.com/users/semyon_sinchenko/badges/large)](https://www.codewars.com/users/semyon_sinchenko)
 
+[![Semyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SemyonSinchenko)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Education
 
 <img src="https://www.phys.msu.ru/rus/gallery/symbolics/img/sign-fizfak-official.jpg" alt="alt text" width="30" height="30"> *Master degree* in solid state physics, Moscow State University, Moscow 2022

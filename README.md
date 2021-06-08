@@ -22,9 +22,6 @@
 
 ### Skills
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="alt text" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/2560px-Scala-full-color.svg.png" alt="alt text" width="110" height="50"> <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/1200px-Java_logo.svg.png" alt="alt text" width="35" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg.png" alt="alt text" width="110" height="50">
-
-
 * Python + ML (Pandas, Numpy, Scikit-learn, Tensorflow, Jax, H2O)
 * Data Engineering Stack (Apache Spark, Airflow, Kafka, Ni-Fi, SQL)
 * Quantum Computing

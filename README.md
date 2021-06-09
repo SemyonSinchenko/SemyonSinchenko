@@ -9,9 +9,9 @@
 
 ### Education
 
-<img src="https://www.phys.msu.ru/rus/gallery/symbolics/img/sign-fizfak-official.jpg" alt="alt text" width="30" height="30"> *Master degree* in solid state physics, Moscow State University, Moscow 2022
+*Master degree* in solid state physics, Moscow State University, Moscow 2022
 
-<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/MEPhI_Logo2014_en.png" alt="alt text" width="30" height="30"> *Bachelor degree* in solid state physics, Moscow Engeneering Physical Institute, Moscow 2016
+*Bachelor degree* in solid state physics, Moscow Engeneering Physical Institute, Moscow 2016
 
 ### Scientific Interests
 
@@ -26,6 +26,12 @@
 * Data Engineering Stack (Apache Spark, Airflow, Kafka, Ni-Fi, SQL)
 * Quantum Computing
 * Quantum Machine Learning
+
+
+### Self-education
+
+* [DataCamp specialization "Data Scientist with Python"](https://www.datacamp.com/statement-of-accomplishment/track/72b166cfeba7ca2ebeed7dd44e3b18a0729bf67c)
+* [DataCamp specialization "Data Scientist with R"](https://www.datacamp.com/statement-of-accomplishment/track/330dcd1da90b6b3daf0c8060bbb524762142aff1)
 
 ### Expertise
 

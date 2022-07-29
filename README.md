@@ -41,7 +41,9 @@
 
 ### Experience
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Raiffeisen_Bank.svg/264px-Raiffeisen_Bank.svg.png" alt="alt text" width="60" height="20"> Data Engineer, Raiffeisenbank RU: 2020-10 - (Now)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Raiffeisen_Bank.svg/264px-Raiffeisen_Bank.svg.png" alt="alt text" width="60" height="20"> Senior Data Engineer, Raiffeisenbank International AG: 2022-06 - (Now)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Raiffeisen_Bank.svg/264px-Raiffeisen_Bank.svg.png" alt="alt text" width="60" height="20"> Data Engineer, Raiffeisenbank RU: 2020-10 - 2022-06
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Raiffeisen_Bank.svg/264px-Raiffeisen_Bank.svg.png" alt="alt text" width="60" height="20"> Expert Data Scientist, Raiffeisenbank RU: 2020-01 - 2020-10
 

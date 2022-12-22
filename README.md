@@ -23,7 +23,7 @@
 ### Skills
 
 * Python + ML (Pandas, Numpy, Scikit-learn, Tensorflow, Jax, H2O)
-* Data Engineering Stack (Apache Spark, Airflow, Kafka, Ni-Fi, SQL)
+* Data Engineering Stack (Apache Spark, Scala, Databrick, Airflow, Kafka, Ni-Fi, SQL)
 * Quantum Computing
 * Quantum Machine Learning
 

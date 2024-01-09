@@ -5,8 +5,8 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<!-- [![Semyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SemyonSinchenko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SemyonSinchenko&hide=Jupyter+Notebook)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Semyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SemyonSinchenko)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SemyonSinchenko&hide=Jupyter+Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Education

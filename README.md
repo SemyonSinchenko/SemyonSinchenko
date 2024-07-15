@@ -15,13 +15,6 @@
 
 *Bachelor degree* in solid state physics, Moscow Engeneering Physical Institute, Moscow 2016
 
-### Scientific Interests
-
-* Quantum Computation / Information
-* Quantum Machine Learning
-* Deep learning in Quantum Physics
-* Network Analysis & Graph Theory
-
 ### Skills
 
 * Python

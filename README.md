@@ -1,11 +1,11 @@
 ### Semyon Sinchenko
 
-[![Codewars](https://www.codewars.com/users/semyon_sinchenko/badges/large)](https://www.codewars.com/users/semyon_sinchenko)
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 [![Semyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SemyonSinchenko&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SemyonSinchenko&hide=Jupyter+Notebook,html,css,JavaScript&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -24,11 +24,11 @@
 
 ### Skills
 
-* Python + ML (Pandas, Numpy, Scikit-learn, Tensorflow, Jax, H2O)
-* Data Engineering Stack (Apache Spark, Scala, Databrick, Airflow, Kafka, Ni-Fi, SQL)
-* Quantum Computing
-* Quantum Machine Learning
-
+* Python
+* Java
+* Scala
+* Data Engineering Stack (Apache Spark, Scala, Databricks, Airflow, Kafka, Ni-Fi, SQL)
+* Python ML Stack (NumPy, SciPy, Scikit-Learn, Tensorflow-2, XgBoost, Pandas)
 
 ### Self-education
 
@@ -39,16 +39,11 @@
 
 * Data Engineering
 * Data Science
-* Backend
 
 ### Experience
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Raiffeisen_Bank.svg/264px-Raiffeisen_Bank.svg.png" alt="alt text" width="60" height="20"> Senior Data Engineer, Raiffeisenbank International AG: 2022-06 - (Now)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Raiffeisen_Bank.svg/264px-Raiffeisen_Bank.svg.png" alt="alt text" width="60" height="20"> Data Engineer, Raiffeisenbank Russia: 2020-10 - 2022-06
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Raiffeisen_Bank.svg/264px-Raiffeisen_Bank.svg.png" alt="alt text" width="60" height="20"> Data Scientist / Engineer, Raiffeisenbank Russia: 2018-01 - 2022-06
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Raiffeisen_Bank.svg/264px-Raiffeisen_Bank.svg.png" alt="alt text" width="60" height="20"> Expert Data Scientist, Raiffeisenbank Russia: 2020-01 - 2020-10
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Raiffeisen_Bank.svg/264px-Raiffeisen_Bank.svg.png" alt="alt text" width="60" height="20"> Senior Data Scientist, Raiffeisenbank Russia: 2019-04 - 2020-01
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Raiffeisen_Bank.svg/264px-Raiffeisen_Bank.svg.png" alt="alt text" width="60" height="20"> Data Analyst, Raiffeisenbank Russia: 2018-01 - 2019-04
+[![Codewars](https://www.codewars.com/users/semyon_sinchenko/badges/large)](https://www.codewars.com/users/semyon_sinchenko)

@@ -32,11 +32,3 @@
 
 * Data Engineering
 * Data Science
-
-### Experience
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Raiffeisen_Bank.svg/264px-Raiffeisen_Bank.svg.png" alt="alt text" width="60" height="20"> Data Engineer, Raiffeisenbank International AG: 2022-06 - (Now)
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Raiffeisen_Bank.svg/264px-Raiffeisen_Bank.svg.png" alt="alt text" width="60" height="20"> Data Scientist / Engineer, Raiffeisenbank Russia: 2018-01 - 2022-06
-
-[![Codewars](https://www.codewars.com/users/semyon_sinchenko/badges/large)](https://www.codewars.com/users/semyon_sinchenko)

@@ -1,34 +1,27 @@
 ### Semyon Sinchenko
 
+Data Egnineer, Open Source Software enthusiast, member of Apache Software Foundation.
+
+I'm developing in Python, Scala/Java and some Rust. Mostly my activities are related to the Apache Spark / PySpark ecosystem and Data Engineering tools.
+
+I'm a maintainer at the following projects:
+- [GraphFrames](https://github.com/graphframes/graphframes) -- scalabale graph algorithms on top of Apache Spark DataFrames.
+- [Apache GraphAr (incubating)](https://github.com/apache/incubator-graphar) -- universal "open-table" format for storing Property Graphs.
+- [spark-fast-tests](https://github.com/mrpowers-io/spark-fast-tests) -- Apache Spark testing helpers and assertions (Scala).
+- [chispa](https://github.com/MrPowers/chispa) -- Apache Spark testing helpers and assertions (Python).
+- [falsa](https://github.com/mrpowers-io/falsa) -- CLI tool for generating datasets of the H2O benchmark. Wriiten in Rust.
+
+And other various projects.
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 [![Semyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SemyonSinchenko&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
+About any open source activities and / or collaborations you can reach me using [ssinchenko@apache.org](mailto:ssinchenko@apache.org).
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SemyonSinchenko&hide=Jupyter+Notebook,html,css,JavaScript&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+About any other activities and / or collaborations you can reach me using my private email [ssinchenko@pm.me](mailto:ssinchenko@pm.me).
 
 
-### Education
 
-*Master degree* in solid state physics, Moscow State University, Moscow 2022
 
-*Bachelor degree* in solid state physics, Moscow Engeneering Physical Institute, Moscow 2016
-
-### Skills
-
-* Python
-* Java
-* Scala
-* Data Engineering Stack (Apache Spark, Scala, Databricks, Airflow, Kafka, Ni-Fi, SQL)
-* Python ML Stack (NumPy, SciPy, Scikit-Learn, Tensorflow-2, XgBoost, Pandas)
-
-### Self-education
-
-* [DataCamp specialization "Data Scientist with Python"](https://www.datacamp.com/statement-of-accomplishment/track/72b166cfeba7ca2ebeed7dd44e3b18a0729bf67c)
-* [DataCamp specialization "Data Scientist with R"](https://www.datacamp.com/statement-of-accomplishment/track/330dcd1da90b6b3daf0c8060bbb524762142aff1)
-
-### Expertise
-
-* Data Engineering
-* Data Science

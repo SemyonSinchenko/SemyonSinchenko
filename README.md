@@ -1,6 +1,6 @@
-### Semyon Sinchenko
+### Sem Sinchenko
 
-Data Egnineer, Open Source Software enthusiast, member of Apache Software Foundation.
+Data Egnineer, Open Source Software enthusiast, Apache Software Foundation committer.
 
 I'm developing in Python, Scala/Java and some Rust. Mostly my activities are related to the Apache Spark / PySpark ecosystem and Data Engineering tools.
 

@@ -14,6 +14,15 @@ I'm a maintainer at the following projects:
 And other various projects.
 
 <!--START_SECTION:waka-->
+
+```txt
+sbt               1 hr 23 mins    █████████████████████▒░░░   85.93 %
+YAML              6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+Python            3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+TOML              3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+```
+
 <!--END_SECTION:waka-->
 
 [![Semyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SemyonSinchenko&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)

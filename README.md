@@ -13,6 +13,7 @@ I'm a maintainer at the following projects:
 
 And other various projects.
 
+Wataktime weekly stats:
 <!--START_SECTION:waka-->
 
 ```txt

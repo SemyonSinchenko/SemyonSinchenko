@@ -17,11 +17,11 @@ Wataktime weekly stats:
 <!--START_SECTION:waka-->
 
 ```txt
-Scala            2 hrs 17 mins   ████████████████▓░░░░░░░░   67.05 %
-Markdown         41 mins         █████░░░░░░░░░░░░░░░░░░░░   20.13 %
-sbt              25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
-TOML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Scala            1 hr 31 mins    ███████████████████▓░░░░░   78.72 %
+Markdown         23 mins         █████░░░░░░░░░░░░░░░░░░░░   20.43 %
+TOML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+sbt              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->

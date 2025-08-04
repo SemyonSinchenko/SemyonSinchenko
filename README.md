@@ -17,11 +17,11 @@ Wakatime weekly stats:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust              11 hrs 25 mins  █████████████████████▒░░░   85.32 %
-Scala             1 hr 54 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
-GitIgnore file    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-CSV               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Rust              10 hrs 50 mins  █████████████████████░░░░   84.65 %
+Scala             1 hr 54 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
+GitIgnore file    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+CSV               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->

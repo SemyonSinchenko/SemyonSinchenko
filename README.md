@@ -26,8 +26,6 @@ textmate          11 mins         ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-[![Semyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SemyonSinchenko&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
 About any open source activities and / or collaborations you can reach me using [ssinchenko@apache.org](mailto:ssinchenko@apache.org).
 
 About any other activities and / or collaborations you can reach me using my private email [ssinchenko@pm.me](mailto:ssinchenko@pm.me).

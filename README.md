@@ -18,9 +18,9 @@ Wakatime weekly stats:
 <!--START_SECTION:waka-->
 
 ```txt
-Scala   8 hrs 38 mins   ███████████████████████▓░   94.50 %
-Git     25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-Other   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Scala   12 hrs 15 mins  ████████████████████████░   96.36 %
+Git     25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Other   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->

@@ -18,11 +18,11 @@ Wakatime weekly stats:
 <!--START_SECTION:waka-->
 
 ```txt
-Org          7 hrs 28 mins         █████████▒░░░░░░░░░░░░░░░   36.98 %
-Python       5 hrs 40 mins         ███████░░░░░░░░░░░░░░░░░░   28.12 %
-Markdown     2 hrs 38 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
-Emacs Lisp   1 hr 57 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-YAML         1 hr 12 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+Org          5 hrs 51 mins         ███████▓░░░░░░░░░░░░░░░░░   31.33 %
+YAML         4 hrs 58 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.58 %
+Markdown     2 hrs 38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
+Python       2 hrs 4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+Emacs Lisp   2 hrs 4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
 ```
 
 <!--END_SECTION:waka-->

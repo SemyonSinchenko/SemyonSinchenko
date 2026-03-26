@@ -18,11 +18,11 @@ Wakatime weekly stats:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML              7 hrs 9 mins          ███████▒░░░░░░░░░░░░░░░░░   29.21 %
-Emacs Lisp        5 hrs 46 mins         ██████░░░░░░░░░░░░░░░░░░░   23.58 %
-Python            5 hrs 12 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.24 %
-Bash              2 hrs 15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-Docker            1 hr 22 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+Emacs Lisp        5 hrs 45 mins         ███████▒░░░░░░░░░░░░░░░░░   29.03 %
+Python            4 hrs 47 mins         ██████░░░░░░░░░░░░░░░░░░░   24.11 %
+YAML              2 hrs 34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
+Bash              2 hrs 15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+Docker            1 hr 22 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
 ```
 
 <!--END_SECTION:waka-->

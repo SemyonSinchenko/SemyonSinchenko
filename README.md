@@ -18,8 +18,7 @@ Wakatime weekly stats:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash   12 mins               █████████████▒░░░░░░░░░░░   53.55 %
-JSON   10 mins               ███████████▓░░░░░░░░░░░░░   46.45 %
+Bash   11 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

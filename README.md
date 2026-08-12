@@ -18,7 +18,11 @@ Wakatime weekly stats:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust           59 mins               ██████████████░░░░░░░░░░░   55.75 %
+Emacs Lisp     16 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+Docker         16 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
+Org            6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Desktop file   6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
 ```
 
 <!--END_SECTION:waka-->

@@ -18,7 +18,10 @@ Wakatime weekly stats:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   2 mins                █████████████████████████   100.00 %
+Python   35 mins               ███████████░░░░░░░░░░░░░░   43.45 %
+Scala    22 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.05 %
+YAML     13 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
+Git      10 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
 ```
 
 <!--END_SECTION:waka-->
